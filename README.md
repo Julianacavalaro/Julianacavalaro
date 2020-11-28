@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ### Juliana Cavalaro 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/monica-ribeiro-dev/)](https://www.linkedin.com/in/juliana-cavalaro/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Julianacavalaro/)](https://www.linkedin.com/in/juliana-cavalaro/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Monica-Ribeiro)](https://github.com/Julianacavalaro?tab=repositories)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Julianacavalaro)](https://github.com/Julianacavalaro?tab=repositories)
