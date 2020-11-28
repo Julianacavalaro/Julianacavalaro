@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Juliana Cavalaro 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/monica-ribeiro-dev/)](https://www.linkedin.com/in/monica-ribeiro-dev/)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Monica-Ribeiro)](https://github.com/Monica-Ribeiro)
