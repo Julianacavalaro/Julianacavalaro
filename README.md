@@ -12,7 +12,7 @@
 - 🎯 Atualmente focado em apps Flutter performáticos e APIs em Java
 - 🛠️ Experiência com REST e Clean Architecture.
 - 📚 Estudando para a certificação **Oracle Java Foundations (1Z0-811)**
-- 📚 Estudando para a certificação **Github Foundation)**
+- 📚 Estudando para a certificação **Github Foundation**
 - 🎨 Curto interfaces bem pensadas e código limpo
 
 ---
