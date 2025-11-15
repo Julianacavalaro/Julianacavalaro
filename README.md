@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Desenvolvedor Mobile & Backend apaixonado por tecnologia<br>
-  💙 Atuante em Flutter | ☕ Amante de Java
+      ☕ Desenvolvedora Java com experiência em Flutter 💙
 </p>
 
 ---
